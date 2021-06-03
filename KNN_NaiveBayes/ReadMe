@@ -2,3 +2,4 @@
 * CS251 4/21/2020
 * Implementing naive_bayes and knn algorithms and comparing efficiency
 * Folder with 3 python files implementing algorithms and two Jupyter notebooks for testing
+* Includes zipped email test data
